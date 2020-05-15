@@ -1,0 +1,3 @@
+# COLABORADORES DEL GRUPO DE TRABAJO
+
+1. Bryan Augusto Cruz Castro
