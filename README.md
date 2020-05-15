@@ -14,3 +14,7 @@ Se recomienda crear un repositorio de la organicacion, para que posteriormente u
 4. presion con un click el boton NEW ORGANIZATION.
 5. llenar los datos necerarios para la nueva organizacion.
 
+
+## PARA LA CREACION DE UN FORK
+
+Para crear un fork debes iniciar sesion en github.com ingresar a la landing page del proyecto del que quieras sacar tu fork 
